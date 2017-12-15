@@ -5,3 +5,7 @@ This Git contains all the files for the Discoggert App I made for the final proj
 At the same time, the app makes use of Google's Firebase and updates its online database with the user registration details and Discogs' ID's, resulting from the executed search.
 
 As the result of a surprising deletion of a controller within my project and some poor decisions within the design of my code I couldn't make the 'favourite function' work that I wanted to implement.
+
+![sceenshot](Discoggertscreen1.png)
+![sceenshot](Discoggertscreen2.png)
+![sceenshot](Discoggertscreen3.png)
